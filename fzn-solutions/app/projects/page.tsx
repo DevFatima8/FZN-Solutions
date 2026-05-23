@@ -1,4 +1,3 @@
-// app/projects/page.tsx
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
