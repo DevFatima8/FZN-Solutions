@@ -32,7 +32,6 @@ const Footer = () => {
     <footer className="relative mt-32 overflow-hidden">
       <div className="absolute inset-0 bg-gradient-to-t from-cyan-500/5 via-purple-500/5 to-transparent"></div>
       
-      {/* Animated Shape */}
       <div className="absolute -top-40 -right-40 w-80 h-80 bg-cyan-500 rounded-full blur-[120px] opacity-20 animate-pulse"></div>
       <div className="absolute -bottom-40 -left-40 w-80 h-80 bg-purple-500 rounded-full blur-[120px] opacity-20 animate-pulse"></div>
 
