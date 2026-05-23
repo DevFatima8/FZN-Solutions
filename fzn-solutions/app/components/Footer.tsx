@@ -100,7 +100,6 @@ const Footer = () => {
               </ul>
             </motion.div>
 
-            {/* Support Links */}
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
