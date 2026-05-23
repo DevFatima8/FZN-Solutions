@@ -30,7 +30,6 @@ const Footer = () => {
 
   return (
     <footer className="relative mt-32 overflow-hidden">
-      {/* Gradient Background Effect */}
       <div className="absolute inset-0 bg-gradient-to-t from-cyan-500/5 via-purple-500/5 to-transparent"></div>
       
       {/* Animated Shape */}
