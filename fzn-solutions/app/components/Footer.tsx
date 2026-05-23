@@ -164,7 +164,6 @@ const Footer = () => {
             </motion.div>
           </div>
 
-          {/* Copyright Bar */}
           <div className="mt-20 pt-8 border-t border-white/10 text-center">
             <p className="text-gray-500 text-sm">
               © {currentYear} FZN Solutions. All rights reserved. Built with modern web technologies.
