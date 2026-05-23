@@ -1,4 +1,3 @@
-// app/page.tsx
 import Header from "./components/Header";
 import Popup3D from "./components/Popup3D";
 import Hero from "./components/Hero";
