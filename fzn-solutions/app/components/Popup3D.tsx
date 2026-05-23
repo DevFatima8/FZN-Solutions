@@ -1,4 +1,3 @@
-// app/components/Popup3D.tsx
 "use client";
 
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
