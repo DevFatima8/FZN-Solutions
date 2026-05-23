@@ -1,4 +1,3 @@
-// app/components/Hero.tsx
 "use client";
 
 import { motion, useScroll, useTransform } from "framer-motion";
